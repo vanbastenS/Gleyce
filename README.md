@@ -1,20 +1,40 @@
-# Jose Gleyson Van Basten
-Inicinate no mundo tech, estudo Análise e Desenvolvimento de Sistemas pela Faculdade dos Guararapes em Recife, Pernambuco. Atualmente participo do programa Satander Bootcamp 2023 - Ciências de Dados com Python.
 
-### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gleyson94_sb?tab=skills)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gleyson94_sb@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jose-gleyson-van-basten-99bbaaa1/)
+# Olá! Me chamo Gleyson Van Basten, Sejam bem vindos!
+
+<p align="center">Inicinate no mundo tech, estudo Análise e Desenvolvimento de Sistemas pela Faculdade dos Guararapes em Recife, Pernambuco. Atualmente participo do programa Satander Bootcamp 2023 - Ciências de Dados com Python.</p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vanbastenS&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-vanbastenS.vercel.app/api/top-langs/?username=vanbastenS&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
 
 
-### O que estou estudando atualmente
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Studying in this moment:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=vanbastenS&repo=Meu-Perfil-GitHub&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vanbastenS/Meu-Perfil-GitHub)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vanbastenS/Meu-Perfil-GitHub)
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/vbastenv?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/gleyson-van-basten-99bbaaa1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
