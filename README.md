@@ -1,7 +1,7 @@
 
 # Olá! Me chamo Gleyson Van Basten, Sejam bem vindos!
 
-<p align="center">Inicinate no mundo tech, estudo Análise e Desenvolvimento de Sistemas pela Faculdade dos Guararapes em Recife, Pernambuco. Atualmente participo do programa Satander Bootcamp 2023 - Ciências de Dados com Python.</p>&nbsp;
+<p align="center">Iniciante no mundo tech, estudo Análise e Desenvolvimento de Sistemas EAD pela Faculdade dos Guararapes em Recife, Pernambuco. Atualmente participo do programa Satander Bootcamp 2023 - Ciências de Dados com Python.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vanbastenS&theme=radical&mode=weekly" />
