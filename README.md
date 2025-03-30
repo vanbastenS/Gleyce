@@ -1,5 +1,5 @@
 
-# Olá! Soua a Diane, Sejam bem vindes!
+# Olá! Sou a Diane, Sejam bem vindes!
 
 <p align="center">Iniciante no mundo tech, estudo Análise e Desenvolvimento de Sistemas EAD pela Faculdade dos Guararapes em Recife, Pernambuco. Atualmente participo do programa Satander Bootcamp 2023 - Ciências de Dados com Python.</p>&nbsp;
 
