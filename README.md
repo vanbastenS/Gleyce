@@ -1,5 +1,5 @@
 
-# Olá! Sou a Gleice, Sejam bem vindes!
+# Olá! Sou a Gleyce, Sejam bem vindes!
 
 <p align="center">Iniciante no mundo tech, estudo Análise e Desenvolvimento de Sistemas EAD pela Faculdade dos Guararapes em Recife, Pernambuco. Atualmente participo do programa Satander Bootcamp 2023 - Ciências de Dados com Python.</p>&nbsp;
 
